@@ -16,7 +16,7 @@
   </div>
 </template>
 
-<script type="text/">
+<script>
   import header from './components/header/header.vue';
 
   const ERR_OK = 0;
@@ -62,3 +62,4 @@
         &.active
           color: rgb(240, 20, 20)
 </style>
+
